@@ -1,0 +1,14 @@
+{
+    "course":[
+        {"id":1,"name":"java","cover":"http://zhaikexueyuan.com/static/images/hadoop/index_banner_1.png"},
+        {"id":2,"name":"js","cover":"http://zhaikexueyuan.com/static/images/hadoop/index_banner_4.png"},
+        {"id":3,"name":"vue","cover":"http://zhaikexueyuan.com/static/images/hadoop/index_banner_2.png"},
+        {"id":4,"name":"webpack","cover":"http://zhaikexueyuan.com/static/images/hadoop/index_banner_3.png"}
+    ],
+    "textbooks":[
+        {"id":1,"name":"java","cover":"/images/hadoop_base_JavaScript.jpg"},
+        {"id":2,"name":"js","cover":"/images/hadoop_base_Oracle.jpg"},
+        {"id":3,"name":"vue","cover":"/images/hadoop_big_date.jpg"},
+        {"id":4,"name":"webpack","cover":"/images/hadoop_prac_vlive.jpg"}
+    ]
+}
